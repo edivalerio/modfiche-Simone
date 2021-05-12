@@ -1,7 +1,7 @@
 ---
 title: Ovest Srl
 layout: home
-description: Ovest, the new project by Antonio Sorrentino.
+description: Ovest, the new project by Antonio Sorrentino and Vincenzo De Cristofaro.
 intro_image: "images/illustrations/home-img.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
